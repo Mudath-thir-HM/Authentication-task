@@ -1,0 +1,4 @@
+/node_modules
+/boot
+/.env
+/package-lock.json
